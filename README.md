@@ -299,7 +299,7 @@ p.note { display: none; }
 </a>
 
 <h2><span class="yellow">星座ソフトで見た同じ方向の星空</span></h2>
-<a href="20260508_018.jpg" target="_blank"><img src="20260508_018.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260514_018.jpg" target="_blank"><img src="20260514_018.jpg" alt="サンプル画像" class="responsive-media"></a>
 
 
 <h2><span class="yellow">再掲_朝の住宅街に鶯の声が鳴り響きました、動画です↓</span></h2>
@@ -332,11 +332,11 @@ p.note { display: none; }
 
 <h2><span class="yellow">おひつじ座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.dainippon-tosho.co.jp/star/2014/12/ohitujiza.html" target="_blank"><span class="snow">おひつじ座とは</span></a></h2>
-
+-->
 
 <h2><span class="yellow">ぎょしゃ座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.dainippon-tosho.co.jp/star/2026/01/gyosyaza.html" target="_blank"><span class="snow">ぎょしゃ座とは</span></a></h2><br><br>
-
+<!--
 <h2><span class="yellow">いっかくじゅう座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.astroarts.co.jp/article/hl/a/13376_mook-mon" target="_blank"><span class="snow">いっかくじゅう座とは</span></a></h2>
 
@@ -351,10 +351,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">おうし座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/ousiza.html" target="_blank"><span class="snow">おうし座とは</span></a></h2>
-
+-->
 <h2><span class="yellow">ふたご座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2><br><br>
-
+<!--
 <h2><span class="yellow">こいぬ座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/koinuza.html" target="_blank"><span class="snow">こいぬ座とは</span></a></h2><br><br>
 
