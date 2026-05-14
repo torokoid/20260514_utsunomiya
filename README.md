@@ -252,7 +252,7 @@ p.note { display: none; }
 </a>
 -->
 
-<h2><span class="yellow">この一枚は庭から</span></h2>
+<h2><span class="yellow">ここからの3枚は庭から</span></h2>
 <a href="20260514_012.webp" target="_blank">
   <picture>
     <source srcset="20260514_012.webp" type="image/webp">
